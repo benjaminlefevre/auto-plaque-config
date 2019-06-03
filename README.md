@@ -1,9 +1,12 @@
 # Auto Moto Plaque
 # Auto Targa
 # Auto Plate
-# Auto matrícula
+# Auto Matrícula
 # Auto Placa
 # Auto Nummerplade
+# Auto Bilskylt
+
+Search a vehicle from its license plate number (France, United Kinkgdom, USA, Netherlands, Italy, Spain, Portugal, Danmark, Sweden and Norway are supported)
 
 Since Google suspended the Auto Plate app in Google Play Store, you can't download it from Google.
 
